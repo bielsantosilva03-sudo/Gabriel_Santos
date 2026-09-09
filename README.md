@@ -87,8 +87,6 @@ Esta seção será atualizada conforme novos conhecimentos, tecnologias e objeti
 
 💼 **LinkedIn:** [Gabriel Santos](https://www.linkedin.com/in/gabriel-santos-b5483a3b4)
 
-🐙 **GitHub:** [Gabriel Santos](https://github.com/bielsantosilva03-sudo)
-
 ---
 
 ⭐ Obrigado por visitar meu perfil!
