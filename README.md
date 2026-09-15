@@ -10,7 +10,7 @@ Tenho interesse em desenvolvimento de software e busco evoluir por meio da facul
 
 ## 👨‍💻 Sobre mim
 
-* 🎓 ADS — UNIFRAN | 2º semestre
+* 🎓 Análise e Desenvolvimento de Sistemas — UNIFRAN | 2º semestre
 * 🐍 Conhecimentos básicos em Python
 * 🌐 Estudando HTML
 * 🗄️ Estudando Banco de Dados
