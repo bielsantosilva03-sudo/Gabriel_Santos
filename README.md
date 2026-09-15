@@ -67,6 +67,3 @@ Continuar aprimorando meus conhecimentos em programação e desenvolvimento de s
 ---
 
 ⭐ Obrigado por visitar meu perfil!
-
-
-⭐ Obrigado por visitar meu perfil!
