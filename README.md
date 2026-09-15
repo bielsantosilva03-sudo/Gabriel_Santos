@@ -2,43 +2,41 @@
 
 ### Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor em formação
 
-Olá! Meu nome é Gabriel Santos e sou estudante de **Análise e Desenvolvimento de Sistemas (ADS) na UNIFRAN**, atualmente no 2º semestre.
+Olá! Sou **Gabriel Santos**, estudante de **Análise e Desenvolvimento de Sistemas (ADS) na UNIFRAN**, atualmente no 2º semestre.
 
-Tenho interesse em desenvolvimento de software e estou constantemente buscando aprimorar meus conhecimentos por meio da faculdade, estudos e projetos práticos.
+Tenho interesse em desenvolvimento de software e busco evoluir por meio da faculdade, estudos e projetos práticos.
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-- 🎓 Estudante de Análise e Desenvolvimento de Sistemas — UNIFRAN
-- 📚 Atualmente no 2º semestre
-- 🐍 Conhecimentos básicos em Python
-- 🌐 Aprendendo HTML
-- 🗄️ Estudando Banco de Dados
-- 🔧 Aprendendo Git e GitHub
-- 🎨 Conhecimentos em Interface e Jornada do Usuário
-- 🤖 Conhecimentos introdutórios em Engenharia de Prompt e IA
-- 💡 Interesse em desenvolvimento de sistemas e criação de experiências digitais simples e intuitivas
+* 🎓 ADS — UNIFRAN | 2º semestre
+* 🐍 Conhecimentos básicos em Python
+* 🌐 Estudando HTML
+* 🗄️ Estudando Banco de Dados
+* 🔧 Aprendendo Git e GitHub
+* 🎨 Conhecimentos em Interface, Jornada do Usuário e Prototipagem
+* 🤖 Conhecimentos introdutórios em Engenharia de Prompt e Inteligência Artificial
+
+Meu objetivo é transformar esses conhecimentos em projetos cada vez mais completos, funcionais e intuitivos.
 
 ---
 
 ## 🛠️ Tecnologias e conhecimentos
 
-### Atualmente estudando
+**Estudando atualmente:**
 
-- Python
-- HTML
-- Banco de Dados
-- Git
-- GitHub
+* Python
+* HTML
+* Banco de Dados
+* Git e GitHub
 
-### Outros conhecimentos
+**Conhecimentos complementares:**
 
-- Interface e Jornada do Usuário
-- Prototipagem de Sistemas Computacionais
-- Engenharia de Prompt
-- Inteligência Artificial
-- Desenvolvimento de soluções com foco na experiência do usuário
+* Interface e Jornada do Usuário
+* Prototipagem de Sistemas
+* Engenharia de Prompt
+* Inteligência Artificial
 
 ---
 
@@ -46,44 +44,23 @@ Tenho interesse em desenvolvimento de software e estou constantemente buscando a
 
 ### Logoterapia
 
-Um dos meus projetos pessoais é um site desenvolvido com o objetivo de apresentar uma solução relacionada à logoterapia.
+Site desenvolvido como projeto pessoal para apresentar uma solução relacionada à logoterapia.
 
-🔗 **[Acessar o projeto](https://logoterapiabr-inky.vercel.app/)**
+🔗 [**Acessar o projeto**](https://logoterapiabr-inky.vercel.app/)
 
-Além desse projeto, também desenvolvo atividades e projetos acadêmicos durante minha graduação.
-
----
-
-## 📖 Formação e estudos
-
-### Análise e Desenvolvimento de Sistemas — UNIFRAN
-
-**2º semestre — em andamento**
-
-Durante minha formação, venho estudando temas como:
-
-- Prototipagem de Sistemas Computacionais
-- Engenharia de Prompt e Aplicações em IA
-- Interface e Jornada do Usuário
-- Programação em Python
-- HTML
-- Banco de Dados
-- Git e GitHub
+Também desenvolvo projetos e atividades acadêmicas durante minha graduação.
 
 ---
 
 ## 🎯 Objetivos
 
-Em constante evolução.
-
-Esta seção será atualizada conforme novos conhecimentos, tecnologias e objetivos forem surgindo ao longo da minha formação.
+Continuar aprimorando meus conhecimentos em programação e desenvolvimento de sistemas, criando projetos práticos e construindo gradualmente minha experiência como desenvolvedor.
 
 ---
 
 ## 📫 Contato
 
-
-📧 **Email:** gabrielsantosilva127@gmail.com
+📧 **E-mail:** [gabrielsantosilva127@gmail.com](mailto:gabrielsantosilva127@gmail.com)
 
 💼 **LinkedIn:** [Gabriel Santos](https://www.linkedin.com/in/gabriel-santos-b5483a3b4)
 
